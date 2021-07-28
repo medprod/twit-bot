@@ -1,8 +1,8 @@
 # twit-bot
 Using Python &amp; Tweepy to build a Twitter Bot.
 
-# Resources
+## Resources
 Made these scripts by navigating through youtube & Udemy videos.
 
-# Experience
+## Experience
 This was a great way to apply and go beyond the basics of python.
